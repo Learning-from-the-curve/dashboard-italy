@@ -94,7 +94,7 @@ for count, regione in enumerate(set(tot_regioni_deceduti['denominazione_regione'
 sorted_daily_regioni_casi = daily_regioni_casi.copy().sort_values(by=['casi'], ascending = False).set_index('denominazione_regione')
 sorted_daily_regioni_deceduti = daily_regioni_deceduti.copy().sort_values(by=['deceduti'], ascending = False).set_index('denominazione_regione')
     
-print(sorted_daily_regioni_deceduti)
+#print(sorted_daily_regioni_deceduti)
 
 ################################################################
 #tab_casi_left
