@@ -442,16 +442,6 @@ app.layout = html.Div([ #Main Container
             className="items my-2 ",
             id="countriesStats",
             ),
-            dbc.Tooltip(children = [
-                html.P([
-                    "This tab shows a set of statistics for the countries selected in the dropdown menu."
-                ],),
-                html.P([
-                    "All the reported statistics are updated to the current day."
-                ],),],
-                target="info_tab_right",
-                style= {'opacity': '0.9'}
-            ),
         ],
         #className= "h-100",
         lg = 3, xs = 12
