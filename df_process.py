@@ -198,9 +198,9 @@ with open(path_geo, encoding='latin-1') as f:
     geo = json.load(f)
 
 
-lista_province = []
-for i in range(len(geo['features'])):
-    lista_province.append(geo['features'][i]['properties']["NOME_PRO"])
+#lista_province = []
+#for i in range(len(geo['features'])):
+#    lista_province.append(geo['features'][i]['properties']["NOME_PRO"])
 
 #print(lista_province)
 
