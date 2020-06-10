@@ -145,7 +145,7 @@ tot_regioni = tot_regioni.reset_index(drop=True)
 sorted_regioni_casi = tot_regioni_casi.copy().groupby('denominazione_regione').last()
 sorted_regioni_casi = sorted_regioni_casi.drop(['data'], axis=1)
 sorted_regioni_casi = sorted_regioni_casi.sort_values(by=['totale_casi'], ascending = False)
-
+print(sorted_regioni_casi)
 sorted_regioni_deceduti = tot_regioni_deceduti.copy().groupby('denominazione_regione').last()
 sorted_regioni_deceduti = sorted_regioni_deceduti.drop(['data'], axis=1)
 sorted_regioni_deceduti = sorted_regioni_deceduti.sort_values(by=['deceduti'], ascending = False)

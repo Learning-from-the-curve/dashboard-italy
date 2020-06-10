@@ -89,8 +89,12 @@ for count, regione in enumerate(set(tot_regioni_casi['denominazione_regione'])):
 
 for count, regione in enumerate(set(tot_regioni_deceduti['denominazione_regione'])):
     daily_regioni_deceduti.loc[count] = [regione, int(tot_regioni_deceduti.loc[tot_regioni_deceduti["denominazione_regione"]==regione, "deceduti"][-1:])-int(tot_regioni_deceduti.loc[tot_regioni_deceduti["denominazione_regione"]==regione, "deceduti"][-2:-1])]
+
+
+sorted_daily_regioni_casi = daily_regioni_casi.copy().sort_values(by=['casi'], ascending = False).set_index('denominazione_regione')
+sorted_daily_regioni_deceduti = daily_regioni_deceduti.copy().sort_values(by=['deceduti'], ascending = False).set_index('denominazione_regione')
     
-#print(sorted_regioni_casi)
+print(sorted_daily_regioni_deceduti)
 
 ################################################################
 #tab_casi_left
@@ -160,7 +164,7 @@ tab_ospedalizzati_left = dbc.Card(
                             html.Span([f'{int(daily_regioni_casi.loc[daily_regioni_casi["denominazione_regione"]==regione, "casi"]):,d}'], className = "spanConfirmed") 
                         ], 
                         className="items"
-                        ) for regione in sorted_regioni_casi.index
+                        ) for regione in sorted_daily_regioni_casi.index
                 ],
                 className='media-body'
                 ),
@@ -187,7 +191,7 @@ tab_dimessi_guariti_left = dbc.Card(
                             html.Span([f'{int(daily_regioni_deceduti.loc[daily_regioni_deceduti["denominazione_regione"]==regione, "deceduti"]):,d}'], className = "spanDeaths"),
                         ], 
                         className="items"
-                        ) for regione in sorted_regioni_deceduti.index
+                        ) for regione in sorted_daily_regioni_deceduti.index
                 ],
                 className='media-body'
                 ),
