@@ -239,27 +239,42 @@ tab_nazione_right = dbc.Card(
 className="border-0",
 )
 
-markdown_data_info = dcc.Markdown('''
-The dashboard is updated daily following new daily releases of data from the data sources listed below.
 
-**Data source daily updated:**
-* [regions](https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv)
-* [provinces](https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-latest.csv)
-* [national](https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv)
+markdown_relevant_info = html.Div([
+    html.P([
+        "We focus on this dashboard on the Italian COVID-19 pandemic. This dashboard is part of a larger set of dashboards available ",
+        dcc.Link('on our website', href='https://www.learningfromthecurve.net/dashboards/', target="_top"),
+    ]),
+    html.P([
+        "Articles by members of the Learning from the Curve team reporting daily information on COVID-19 are available ",
+        dcc.Link('here', href='https://www.learningfromthecurve.net/commentaries/', target="_top"),
+    ]),
+    html.P([
+        "Please, report any bug at the following contact address: ",
+        dcc.Link('learningfromthecurve.info@gmail.com', href='mailto:learningfromthecurve.info@gmail.com'),
+    ]),
+])
 
-**Other data:**
-* [Geojson](https://gist.githubusercontent.com/datajournalism-it/212e7134625fbee6f9f7/raw/dabd071fe607f5210921f138ad3c7276e3841166/province.geojson).
-* [Regional population data](http://dati.istat.it/Index.aspx?QueryId=18460).
-''')
-
-markdown_relevant_info = dcc.Markdown('''
-We focus on this dashboard on the Italian COVID-19 pandemic. This dashboard is part of a larger set of dashboards available [on our website](https://www.learningfromthecurve.net/dashboards/).
-
-Articles by members of the Learning from the Curve team reporting daily information on COVID-19 are available [here](https://www.learningfromthecurve.net/commentaries/).
-
-Please, report any bug at the following contact address: learningfromthecurve.info@gmail.com.
-''')
-
+markdown_data_info = html.Div([
+    html.P([
+        "The dashboard is updated daily following new daily releases of data from the data sources listed below.",
+    ]),
+    html.P([
+        "Data source daily updated:",
+        html.Ul([
+            html.Li(dcc.Link('Regions', href='https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv', target="_blank"),),
+            html.Li(dcc.Link('Provinces', href='https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-latest.csv', target="_blank"),),
+            html.Li(dcc.Link('National', href='https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv', target="_blank"),),
+        ])
+    ]),
+    html.P([
+        "Other data:",
+        html.Ul([
+            html.Li(dcc.Link('Geojson', href='https://gist.githubusercontent.com/datajournalism-it/212e7134625fbee6f9f7/raw/dabd071fe607f5210921f138ad3c7276e3841166/province.geojson', target="_blank"),),
+            html.Li(dcc.Link('Regional population data', href='http://dati.istat.it/Index.aspx?QueryId=18460', target="_blank"),),
+        ])
+    ]),
+])
 
 ############################
 # Bootstrap Grid Layout
