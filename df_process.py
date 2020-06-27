@@ -51,7 +51,7 @@ df_province = pd.read_csv(url_province, encoding="latin-1")
 new_df_province = df_province['codice_provincia']
 
 #print(list(df_province['denominazione_provincia']))
-'''
+
 #compute difference of rows and columns
 nazione_date_diff = set(new_df_nazione).symmetric_difference(set(old_df_nazione))
 regioni_date_diff = set(new_df_regioni['data']).symmetric_difference(set(old_df_regioni['data']))
@@ -93,7 +93,7 @@ elif len(regioni_date_diff) == 1:
     write_log('new date added: ' + str(regioni_date_diff))
 else:
     write_log('no new date added')
-'''
+
 df_regioni.to_csv(path_regioni, index = None)
 df_province.to_csv(path_province, index = None)
 df_nazione.to_csv(path_nazione, index = None)
