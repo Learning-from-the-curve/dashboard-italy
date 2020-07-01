@@ -113,7 +113,7 @@ tot_nazione_casi = df_nazione[['data', 'totale_casi']]
 tot_nazione_deceduti = df_nazione[['data', 'deceduti']]
 tot_nazione = df_nazione[['data', 'totale_casi', 'totale_ospedalizzati', 'dimessi_guariti', 'deceduti']]
 #print(tot_nazione)
-stats = list(df_regioni.drop(['data', 'stato', 'codice_regione', 'denominazione_regione', 'lat', 'long', 'note_it', 'note_en'], axis =1).columns)
+stats = list(df_regioni.drop(['data', 'stato', 'codice_regione', 'denominazione_regione', 'lat', 'long', 'note'], axis =1).columns)
 #print(stats)
 for stat in stats:   
     sumlist = list( map(add, list(df_regioni.loc[df_regioni['denominazione_regione'] == 'P.A. Trento', stat]), list(df_regioni.loc[df_regioni['denominazione_regione'] == 'P.A. Bolzano', stat])) )
@@ -159,7 +159,7 @@ sorted_regioni_dimessi_guariti = sorted_regioni_dimessi_guariti.drop(['data'], a
 sorted_regioni_dimessi_guariti = sorted_regioni_dimessi_guariti.sort_values(by=['dimessi_guariti'], ascending = False)
 
 # for tab card right
-tab_right_df = df_nazione.drop(['stato','note_it','note_en'], axis=1)[-1:]
+tab_right_df = df_nazione.drop(['stato','note'], axis=1)[-1:]
 tab_right_df.rename(columns={
     'data': 'date', #
     'ricoverati_con_sintomi': 'hospitalized_with_symptoms',
