@@ -171,6 +171,8 @@ tab_right_df.rename(columns={
     'nuovi_positivi': 'new_positives',
     'dimessi_guariti': 'discharged_healed',
     'deceduti': 'deceased', 
+    'casi_da_sospetto_diagnostico': 'cases_of_diagnostic_suspicion',
+    'casi_da_screening' : 'screening cases',
     'totale_casi': 'total_cases', 
     'tamponi': 'swabs',
     'casi_testati': 'cases_tested',
