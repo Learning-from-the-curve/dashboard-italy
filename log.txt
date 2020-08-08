@@ -440,3 +440,10 @@
 [08/08/2020 16:04:15] --- REGIONI FILE CHECK
 [08/08/2020 16:04:15] no new regioni added
 [08/08/2020 16:04:15] no new date added
+[08/08/2020 16:21:19] --- NAZIONE FILE CHECK
+[08/08/2020 16:21:19] new date added: {'2020-08-08T17:00:00'}
+[08/08/2020 16:21:19] --- PROVINCE CODE FILE CHECK
+[08/08/2020 16:21:19] no new province code added
+[08/08/2020 16:21:19] --- REGIONI FILE CHECK
+[08/08/2020 16:21:19] no new regioni added
+[08/08/2020 16:21:19] new date added: {'2020-08-08T17:00:00'}
