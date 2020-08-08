@@ -42,7 +42,7 @@ def gen_map(map_data,geo):
             "featureidkey": 'properties.NOME_PRO',
             "z": np.log(map_data['totale_casi']),
             "hoverinfo": "text",         
-            "hovertext": [f"Province: {map_data.iloc[indice]['denominazione_provincia']} <br>Number of cases: {int(map_data.iloc[indice]['totale_casi']):,}" for indice in range(len(map_data['denominazione_provincia']))],
+            "hovertext": [f"Province: {map_data.iloc[indice]['denominazione_provincia']} <br>Number of cases: {int(map_data.iloc[indice]['totale_casi']):,} <br>Daily cases: {int(map_data.iloc[indice]['daily']):,}" for indice in range(len(map_data['denominazione_provincia']))],
             'colorbar': dict(thickness=20, ticklen=3),
             'colorscale': 'Geyser',
             'autocolorscale': False,

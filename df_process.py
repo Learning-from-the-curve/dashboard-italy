@@ -6,9 +6,12 @@ import json
 import pandas as pd
 import numpy as np
 from pathlib import Path
-from process_functions import write_log
+from process_functions import write_log, applyDiff
 from pickle_functions import picklify, unpicklify
 from operator import add
+
+
+
 ######################################
 # Retrieve data
 ######################################
@@ -18,20 +21,19 @@ path_population = Path.cwd() / 'input' / 'italy_population_istat.csv'
 path_geo = Path.cwd() / 'input'/ 'province.geojson'
 
 path_regioni = Path.cwd() / 'input' / 'dpc-covid19-ita-regioni.csv'
-path_province = Path.cwd() / 'input' / 'dpc-covid19-ita-province-latest.csv'
+path_province = Path.cwd() / 'input' / 'dpc-covid19-ita-province.csv'
 path_nazione = Path.cwd() / 'input' / 'dpc-covid19-ita-andamento-nazionale.csv'
-path_cod_province = Path.cwd() / 'input' / 'cod_province.CSV'
+#path_cod_province = Path.cwd() / 'input' / 'cod_province.CSV'
 
 # get data directly from github. The data source provided by Johns Hopkins University.
 url_regioni = 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv'
-url_province = 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-latest.csv'
+url_province = 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province.csv'
 url_nazione = 'https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv'
 
 ###########################################################################
 
 pop = pd.read_csv(path_population)
-cod_province = pd.read_csv(path_cod_province, sep=";", encoding="latin-1")
-
+#cod_province = pd.read_csv(path_cod_province, sep=";", encoding="latin-1")
 #print(cod_province)
 
 #load old data
@@ -51,6 +53,25 @@ df_province = pd.read_csv(url_province, encoding="latin-1")
 new_df_province = df_province['codice_provincia']
 
 #print(list(df_province['denominazione_provincia']))
+tot_province_casi = df_province[['data','denominazione_provincia','totale_casi']]
+dates = set(df_province['data'])   # convert to dates   .apply(lambda x: datetime.strptime(x, '%Y-%m-%dT%H:%M:%S').date()))
+last_date = max(dates)
+dates.remove(last_date)
+second_to_last_date = max(dates)
+#print( last_date )
+#print(second_to_last_date )
+
+df_province_second_to_last = tot_province_casi.loc[df_province['data'] == second_to_last_date]
+tot_province_casi = tot_province_casi.loc[df_province['data'] == last_date]
+tot_province_casi = tot_province_casi.drop(['data'], axis=1)
+df_province_second_to_last = df_province_second_to_last.drop(['data'], axis=1)
+tot_province_casi = tot_province_casi.loc[tot_province_casi['denominazione_provincia'] != 'In fase di definizione/aggiornamento']
+tot_province_casi = tot_province_casi.loc[tot_province_casi['denominazione_provincia'] != 'Fuori Regione / Provincia Autonoma']
+df_province_second_to_last = df_province_second_to_last.loc[df_province_second_to_last['denominazione_provincia'] != 'In fase di definizione/aggiornamento']
+df_province_second_to_last = df_province_second_to_last.loc[df_province_second_to_last['denominazione_provincia'] != 'Fuori Regione / Provincia Autonoma']
+tot_province_casi['daily'] = tot_province_casi['totale_casi']
+tot_province_casi = tot_province_casi.apply( applyDiff,args = [df_province_second_to_last], axis =1)
+
 
 #compute difference of rows and columns
 nazione_date_diff = set(new_df_nazione).symmetric_difference(set(old_df_nazione))
@@ -179,7 +200,6 @@ tab_right_df.rename(columns={
     }, inplace=True)
 
 #for province map
-tot_province_casi = df_province[['denominazione_provincia','totale_casi']]
 
 tot_province_casi.at[tot_province_casi['denominazione_provincia'] == 'Massa Carrara','denominazione_provincia'] = 'Massa-Carrara'
 tot_province_casi.at[tot_province_casi['denominazione_provincia'] == "Reggio nell'Emilia",'denominazione_provincia'] = 'Reggio Emilia'
@@ -188,12 +208,11 @@ tot_province_casi.at[tot_province_casi['denominazione_provincia'] == "Reggio di 
 tot_province_casi.at[tot_province_casi['denominazione_provincia'] == 'Aosta','denominazione_provincia'] = "Valle d'Aosta"
 tot_province_casi.at[tot_province_casi['denominazione_provincia'] == "ForlÃ¬-Cesena",'denominazione_provincia'] = "ForlÂ\x8d-Cesena"
 
-tot_province_casi = tot_province_casi.append(pd.Series(['Carbonia-Iglesias', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sud Sardegna','totale_casi'])], index=tot_province_casi.columns), ignore_index=True)
-tot_province_casi = tot_province_casi.append(pd.Series(['Medio Campidano', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sud Sardegna','totale_casi'])], index=tot_province_casi.columns), ignore_index=True)
-tot_province_casi = tot_province_casi.append(pd.Series(['Ogliastra', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Nuoro','totale_casi'])], index=tot_province_casi.columns), ignore_index=True)
-tot_province_casi = tot_province_casi.append(pd.Series(['Olbia-Tempio', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sassari','totale_casi'])], index=tot_province_casi.columns), ignore_index=True)
+tot_province_casi = tot_province_casi.append(pd.Series(['Carbonia-Iglesias', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sud Sardegna','totale_casi']), int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sud Sardegna','daily'])], index=tot_province_casi.columns), ignore_index=True)
+tot_province_casi = tot_province_casi.append(pd.Series(['Medio Campidano', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sud Sardegna','totale_casi']), int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sud Sardegna','daily'])], index=tot_province_casi.columns), ignore_index=True)
+tot_province_casi = tot_province_casi.append(pd.Series(['Ogliastra', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Nuoro','totale_casi']), int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Nuoro','daily'])], index=tot_province_casi.columns), ignore_index=True)
+tot_province_casi = tot_province_casi.append(pd.Series(['Olbia-Tempio', int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sassari','totale_casi']), int(tot_province_casi.loc[tot_province_casi['denominazione_provincia'] == 'Sassari','daily'])], index=tot_province_casi.columns), ignore_index=True)
 tot_province_casi = tot_province_casi[tot_province_casi['denominazione_provincia'] != 'Sud Sardegna']
-tot_province_casi = tot_province_casi[tot_province_casi['denominazione_provincia'] != 'In fase di definizione/aggiornamento']
 tot_province_casi = tot_province_casi.reset_index(drop=True)
 
 with open(path_geo, encoding='latin-1') as f:
@@ -249,4 +268,3 @@ dataframe_list = [
 
 for dataframe, name in dataframe_list:
     picklify(dataframe, name)
-

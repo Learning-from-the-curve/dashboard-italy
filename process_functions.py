@@ -10,3 +10,7 @@ def write_log(str):
     log_file = open('log.txt', 'a')
     log_file.write(f'[{now}] {str}\n')
     log_file.close()
+
+def applyDiff(row, df_province_second_to_last):
+    row['daily'] = row['daily'] - int(df_province_second_to_last.loc[df_province_second_to_last['denominazione_provincia'] == row['denominazione_provincia'], 'totale_casi'])
+    return row
