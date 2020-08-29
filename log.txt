@@ -587,3 +587,10 @@
 [28/08/2020 16:23:13] --- REGIONI FILE CHECK
 [28/08/2020 16:23:13] no new regioni added
 [28/08/2020 16:23:13] new date added: {'2020-08-28T17:00:00'}
+[29/08/2020 16:17:16] --- NAZIONE FILE CHECK
+[29/08/2020 16:17:16] new date added: {'2020-08-29T17:00:00'}
+[29/08/2020 16:17:16] --- PROVINCE CODE FILE CHECK
+[29/08/2020 16:17:16] no new province code added
+[29/08/2020 16:17:16] --- REGIONI FILE CHECK
+[29/08/2020 16:17:16] no new regioni added
+[29/08/2020 16:17:16] new date added: {'2020-08-29T17:00:00'}
