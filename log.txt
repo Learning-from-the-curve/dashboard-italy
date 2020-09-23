@@ -769,3 +769,10 @@
 [22/09/2020 16:26:43] --- REGIONI FILE CHECK
 [22/09/2020 16:26:43] no new regioni added
 [22/09/2020 16:26:43] new date added: {'2020-09-22T17:00:00'}
+[23/09/2020 16:26:16] --- NAZIONE FILE CHECK
+[23/09/2020 16:26:16] new date added: {'2020-09-23T17:00:00'}
+[23/09/2020 16:26:16] --- PROVINCE CODE FILE CHECK
+[23/09/2020 16:26:16] no new province code added
+[23/09/2020 16:26:16] --- REGIONI FILE CHECK
+[23/09/2020 16:26:16] no new regioni added
+[23/09/2020 16:26:16] new date added: {'2020-09-23T17:00:00'}
