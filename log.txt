@@ -811,3 +811,10 @@
 [28/09/2020 16:27:22] --- REGIONI FILE CHECK
 [28/09/2020 16:27:22] no new regioni added
 [28/09/2020 16:27:22] new date added: {'2020-09-28T17:00:00'}
+[29/09/2020 16:27:54] --- NAZIONE FILE CHECK
+[29/09/2020 16:27:54] new date added: {'2020-09-29T17:00:00'}
+[29/09/2020 16:27:54] --- PROVINCE CODE FILE CHECK
+[29/09/2020 16:27:54] no new province code added
+[29/09/2020 16:27:54] --- REGIONI FILE CHECK
+[29/09/2020 16:27:54] no new regioni added
+[29/09/2020 16:27:54] new date added: {'2020-09-29T17:00:00'}
