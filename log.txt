@@ -1000,3 +1000,10 @@
 [25/10/2020 16:40:15] --- REGIONI FILE CHECK
 [25/10/2020 16:40:15] no new regioni added
 [25/10/2020 16:40:15] new date added: {'2020-10-25T17:00:00'}
+[26/10/2020 16:42:53] --- NAZIONE FILE CHECK
+[26/10/2020 16:42:53] new date added: {'2020-10-26T17:00:00'}
+[26/10/2020 16:42:53] --- PROVINCE CODE FILE CHECK
+[26/10/2020 16:42:53] no new province code added
+[26/10/2020 16:42:53] --- REGIONI FILE CHECK
+[26/10/2020 16:42:53] no new regioni added
+[26/10/2020 16:42:53] new date added: {'2020-10-26T17:00:00'}
