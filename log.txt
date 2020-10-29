@@ -1021,3 +1021,10 @@
 [28/10/2020 16:46:20] --- REGIONI FILE CHECK
 [28/10/2020 16:46:20] no new regioni added
 [28/10/2020 16:46:20] new date added: {'2020-10-28T17:00:00'}
+[29/10/2020 16:41:02] --- NAZIONE FILE CHECK
+[29/10/2020 16:41:02] new date added: {'2020-10-29T17:00:00'}
+[29/10/2020 16:41:02] --- PROVINCE CODE FILE CHECK
+[29/10/2020 16:41:02] no new province code added
+[29/10/2020 16:41:02] --- REGIONI FILE CHECK
+[29/10/2020 16:41:02] no new regioni added
+[29/10/2020 16:41:02] new date added: {'2020-10-29T17:00:00'}
