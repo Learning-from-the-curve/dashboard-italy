@@ -1028,3 +1028,10 @@
 [29/10/2020 16:41:02] --- REGIONI FILE CHECK
 [29/10/2020 16:41:02] no new regioni added
 [29/10/2020 16:41:02] new date added: {'2020-10-29T17:00:00'}
+[30/10/2020 16:27:03] --- NAZIONE FILE CHECK
+[30/10/2020 16:27:03] new date added: {'2020-10-30T17:00:00'}
+[30/10/2020 16:27:03] --- PROVINCE CODE FILE CHECK
+[30/10/2020 16:27:03] no new province code added
+[30/10/2020 16:27:03] --- REGIONI FILE CHECK
+[30/10/2020 16:27:03] no new regioni added
+[30/10/2020 16:27:03] new date added: {'2020-10-30T17:00:00'}
