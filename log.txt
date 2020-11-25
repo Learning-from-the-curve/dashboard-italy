@@ -1217,3 +1217,10 @@
 [24/11/2020 16:41:23] --- REGIONI FILE CHECK
 [24/11/2020 16:41:23] no new regioni added
 [24/11/2020 16:41:23] new date added: {'2020-11-24T17:00:00'}
+[25/11/2020 16:41:55] --- NAZIONE FILE CHECK
+[25/11/2020 16:41:55] new date added: {'2020-11-25T17:00:00'}
+[25/11/2020 16:41:55] --- PROVINCE CODE FILE CHECK
+[25/11/2020 16:41:55] no new province code added
+[25/11/2020 16:41:55] --- REGIONI FILE CHECK
+[25/11/2020 16:41:55] no new regioni added
+[25/11/2020 16:41:55] new date added: {'2020-11-25T17:00:00'}
