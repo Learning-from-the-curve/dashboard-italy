@@ -1238,3 +1238,10 @@
 [27/11/2020 16:40:22] --- REGIONI FILE CHECK
 [27/11/2020 16:40:22] no new regioni added
 [27/11/2020 16:40:22] new date added: {'2020-11-27T17:00:00'}
+[28/11/2020 16:39:21] --- NAZIONE FILE CHECK
+[28/11/2020 16:39:21] new date added: {'2020-11-28T17:00:00'}
+[28/11/2020 16:39:21] --- PROVINCE CODE FILE CHECK
+[28/11/2020 16:39:21] no new province code added
+[28/11/2020 16:39:21] --- REGIONI FILE CHECK
+[28/11/2020 16:39:21] no new regioni added
+[28/11/2020 16:39:21] new date added: {'2020-11-28T17:00:00'}
