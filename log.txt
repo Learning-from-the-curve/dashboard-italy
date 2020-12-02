@@ -1266,3 +1266,10 @@
 [01/12/2020 16:46:37] --- REGIONI FILE CHECK
 [01/12/2020 16:46:37] no new regioni added
 [01/12/2020 16:46:37] new date added: {'2020-12-01T17:00:00'}
+[02/12/2020 16:50:43] --- NAZIONE FILE CHECK
+[02/12/2020 16:50:43] new date added: {'2020-12-02T17:00:00'}
+[02/12/2020 16:50:43] --- PROVINCE CODE FILE CHECK
+[02/12/2020 16:50:43] no new province code added
+[02/12/2020 16:50:43] --- REGIONI FILE CHECK
+[02/12/2020 16:50:43] no new regioni added
+[02/12/2020 16:50:43] new date added: {'2020-12-02T17:00:00'}
