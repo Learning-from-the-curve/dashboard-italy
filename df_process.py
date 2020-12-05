@@ -72,7 +72,6 @@ df_province_second_to_last = df_province_second_to_last.loc[df_province_second_t
 tot_province_casi['daily'] = tot_province_casi['totale_casi']
 tot_province_casi = tot_province_casi.apply( applyDiff,args = [df_province_second_to_last], axis =1)
 
-
 #compute difference of rows and columns
 nazione_date_diff = set(new_df_nazione).symmetric_difference(set(old_df_nazione))
 regioni_date_diff = set(new_df_regioni['data']).symmetric_difference(set(old_df_regioni['data']))
