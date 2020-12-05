@@ -1294,3 +1294,10 @@
 [05/12/2020 09:57:58] --- REGIONI FILE CHECK
 [05/12/2020 09:57:58] no new regioni added
 [05/12/2020 09:57:58] new date added: {'2020-12-04T17:00:00'}
+[05/12/2020 16:43:21] --- NAZIONE FILE CHECK
+[05/12/2020 16:43:21] no new date added
+[05/12/2020 16:43:21] --- PROVINCE CODE FILE CHECK
+[05/12/2020 16:43:21] no new province code added
+[05/12/2020 16:43:21] --- REGIONI FILE CHECK
+[05/12/2020 16:43:21] no new regioni added
+[05/12/2020 16:43:21] no new date added
