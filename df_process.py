@@ -122,6 +122,13 @@ df_nazione.to_csv(path_nazione, index = None)
 # Data preprocessing for getting useful data and shaping data compatible to plotly plot
 #########################################################################################
 # for national counts
+# data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
+# data,stato,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+
+
+# data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note
+# data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,totale_positivi,variazione_totale_positivi,nuovi_positivi,dimessi_guariti,deceduti,casi_da_sospetto_diagnostico,casi_da_screening,totale_casi,tamponi,casi_testati,note,ingressi_terapia_intensiva,note_test,note_casi
+
 df_nazione['data'] = pd.to_datetime(df_nazione.data)
 df_nazione['data'] = df_nazione['data'].dt.strftime('%Y/%m/%d')
 df_regioni['data'] = pd.to_datetime(df_regioni.data)
@@ -133,7 +140,7 @@ tot_nazione_casi = df_nazione[['data', 'totale_casi']]
 tot_nazione_deceduti = df_nazione[['data', 'deceduti']]
 tot_nazione = df_nazione[['data', 'totale_casi', 'totale_ospedalizzati', 'dimessi_guariti', 'deceduti']]
 #print(tot_nazione)
-stats = list(df_regioni.drop(['data', 'stato', 'codice_regione', 'denominazione_regione', 'lat', 'long', 'note'], axis =1).columns)
+stats = list(df_regioni.drop(['data', 'stato', 'codice_regione', 'denominazione_regione', 'lat', 'long', 'note','ingressi_terapia_intensiva','note_test','note_casi'], axis =1).columns)
 #print(stats)
 for stat in stats:   
     sumlist = list( map(add, list(df_regioni.loc[df_regioni['denominazione_regione'] == 'P.A. Trento', stat]), list(df_regioni.loc[df_regioni['denominazione_regione'] == 'P.A. Bolzano', stat])) )
