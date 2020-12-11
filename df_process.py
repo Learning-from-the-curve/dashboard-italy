@@ -186,7 +186,7 @@ sorted_regioni_dimessi_guariti = sorted_regioni_dimessi_guariti.drop(['data'], a
 sorted_regioni_dimessi_guariti = sorted_regioni_dimessi_guariti.sort_values(by=['dimessi_guariti'], ascending = False)
 
 # for tab card right
-tab_right_df = df_nazione.drop(['stato','note'], axis=1)[-1:]
+tab_right_df = df_nazione.drop(['stato','note','ingressi_terapia_intensiva','note_test','note_casi'], axis=1)[-1:]
 tab_right_df.rename(columns={
     'data': 'date', #
     'ricoverati_con_sintomi': 'hospitalized_with_symptoms',
@@ -204,6 +204,7 @@ tab_right_df.rename(columns={
     'tamponi': 'swabs',
     'casi_testati': 'cases_tested',
     }, inplace=True)
+tab_right_df.dropna(axis=1, how='any', inplace = True)
 
 #for province map
 

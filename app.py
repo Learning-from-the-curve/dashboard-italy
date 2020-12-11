@@ -12,6 +12,7 @@ import dash_table as dt
 from dash.dependencies import Input, Output, State
 import numpy as np
 import pandas as pd
+import math
 import dash_bootstrap_components as dbc
 # Custom functions
 from layout_functions import gen_map, draw_singleCountry_Scatter, draw_stats, draw_share, list_item
@@ -94,7 +95,7 @@ for count, regione in enumerate(set(tot_regioni_deceduti['denominazione_regione'
 sorted_daily_regioni_casi = daily_regioni_casi.copy().sort_values(by=['casi'], ascending = False).set_index('denominazione_regione')
 sorted_daily_regioni_deceduti = daily_regioni_deceduti.copy().sort_values(by=['deceduti'], ascending = False).set_index('denominazione_regione')
     
-#print(sorted_daily_regioni_deceduti)
+#print(tab_right_df)
 
 ################################################################
 #tab_casi_left
@@ -222,7 +223,7 @@ tab_nazione_right = dbc.Card(
                             list_item(f'{info.replace("_"," ").title()}: ', value, ''),
                         ],
                         className="items"
-                        ) for info, value in zip(tab_right_df.columns, [f'{int(x):,d}' if np.issubdtype(type(x), np.number) else x for x in tab_right_df[tab_right_df.columns].iloc[0]])
+                        ) for info, value in zip(tab_right_df.columns, [ x  for x in tab_right_df[tab_right_df.columns].iloc[0]])
                 ],
                 className='media-body'
                 ),
