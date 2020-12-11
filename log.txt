@@ -1329,3 +1329,10 @@
 [10/12/2020 19:22:14] --- REGIONI FILE CHECK
 [10/12/2020 19:22:14] no new regioni added
 [10/12/2020 19:22:14] multiple new dates added: {'2020-12-10T17:00:00', '2020-12-09T17:00:00'}
+[11/12/2020 16:48:05] --- NAZIONE FILE CHECK
+[11/12/2020 16:48:05] new date added: {'2020-12-11T17:00:00'}
+[11/12/2020 16:48:05] --- PROVINCE CODE FILE CHECK
+[11/12/2020 16:48:05] no new province code added
+[11/12/2020 16:48:05] --- REGIONI FILE CHECK
+[11/12/2020 16:48:05] no new regioni added
+[11/12/2020 16:48:05] new date added: {'2020-12-11T17:00:00'}
