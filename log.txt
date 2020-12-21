@@ -1399,3 +1399,10 @@
 [20/12/2020 16:55:53] --- REGIONI FILE CHECK
 [20/12/2020 16:55:53] no new regioni added
 [20/12/2020 16:55:53] new date added: {'2020-12-20T17:00:00'}
+[21/12/2020 16:58:38] --- NAZIONE FILE CHECK
+[21/12/2020 16:58:38] new date added: {'2020-12-21T17:00:00'}
+[21/12/2020 16:58:38] --- PROVINCE CODE FILE CHECK
+[21/12/2020 16:58:38] no new province code added
+[21/12/2020 16:58:38] --- REGIONI FILE CHECK
+[21/12/2020 16:58:38] no new regioni added
+[21/12/2020 16:58:38] new date added: {'2020-12-21T17:00:00'}
