@@ -1462,3 +1462,10 @@
 [29/12/2020 17:10:02] --- REGIONI FILE CHECK
 [29/12/2020 17:10:02] no new regioni added
 [29/12/2020 17:10:02] new date added: {'2020-12-29T17:00:00'}
+[30/12/2020 17:10:18] --- NAZIONE FILE CHECK
+[30/12/2020 17:10:18] new date added: {'2020-12-30T17:00:00'}
+[30/12/2020 17:10:18] --- PROVINCE CODE FILE CHECK
+[30/12/2020 17:10:18] no new province code added
+[30/12/2020 17:10:18] --- REGIONI FILE CHECK
+[30/12/2020 17:10:18] no new regioni added
+[30/12/2020 17:10:18] new date added: {'2020-12-30T17:00:00'}
