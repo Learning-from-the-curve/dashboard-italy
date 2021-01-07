@@ -1518,3 +1518,10 @@
 [06/01/2021 17:15:45] --- REGIONI FILE CHECK
 [06/01/2021 17:15:45] no new regioni added
 [06/01/2021 17:15:45] new date added: {'2021-01-06T17:00:00'}
+[07/01/2021 17:16:45] --- NAZIONE FILE CHECK
+[07/01/2021 17:16:45] new date added: {'2021-01-07T17:00:00'}
+[07/01/2021 17:16:45] --- PROVINCE CODE FILE CHECK
+[07/01/2021 17:16:45] no new province code added
+[07/01/2021 17:16:45] --- REGIONI FILE CHECK
+[07/01/2021 17:16:45] no new regioni added
+[07/01/2021 17:16:45] new date added: {'2021-01-07T17:00:00'}
