@@ -1595,3 +1595,10 @@
 [17/01/2021 17:30:34] --- REGIONI FILE CHECK
 [17/01/2021 17:30:34] no new regioni added
 [17/01/2021 17:30:34] new date added: {'2021-01-17T17:00:00'}
+[18/01/2021 17:34:14] --- NAZIONE FILE CHECK
+[18/01/2021 17:34:14] new date added: {'2021-01-18T17:00:00'}
+[18/01/2021 17:34:14] --- PROVINCE CODE FILE CHECK
+[18/01/2021 17:34:14] no new province code added
+[18/01/2021 17:34:14] --- REGIONI FILE CHECK
+[18/01/2021 17:34:14] no new regioni added
+[18/01/2021 17:34:14] new date added: {'2021-01-18T17:00:00'}
