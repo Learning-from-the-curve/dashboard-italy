@@ -1714,3 +1714,10 @@
 [02/02/2021 17:08:15] --- REGIONI FILE CHECK
 [02/02/2021 17:08:15] no new regioni added
 [02/02/2021 17:08:15] new date added: {'2021-02-02T17:00:00'}
+[03/02/2021 16:58:31] --- NAZIONE FILE CHECK
+[03/02/2021 16:58:31] new date added: {'2021-02-03T17:00:00'}
+[03/02/2021 16:58:31] --- PROVINCE CODE FILE CHECK
+[03/02/2021 16:58:31] no new province code added
+[03/02/2021 16:58:31] --- REGIONI FILE CHECK
+[03/02/2021 16:58:31] no new regioni added
+[03/02/2021 16:58:31] new date added: {'2021-02-03T17:00:00'}
