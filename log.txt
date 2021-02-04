@@ -1721,3 +1721,10 @@
 [03/02/2021 16:58:31] --- REGIONI FILE CHECK
 [03/02/2021 16:58:31] no new regioni added
 [03/02/2021 16:58:31] new date added: {'2021-02-03T17:00:00'}
+[04/02/2021 16:48:58] --- NAZIONE FILE CHECK
+[04/02/2021 16:48:58] new date added: {'2021-02-04T17:00:00'}
+[04/02/2021 16:48:58] --- PROVINCE CODE FILE CHECK
+[04/02/2021 16:48:58] no new province code added
+[04/02/2021 16:48:58] --- REGIONI FILE CHECK
+[04/02/2021 16:48:58] no new regioni added
+[04/02/2021 16:48:58] new date added: {'2021-02-04T17:00:00'}
