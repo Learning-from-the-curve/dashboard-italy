@@ -1728,3 +1728,10 @@
 [04/02/2021 16:48:58] --- REGIONI FILE CHECK
 [04/02/2021 16:48:58] no new regioni added
 [04/02/2021 16:48:58] new date added: {'2021-02-04T17:00:00'}
+[05/02/2021 16:51:39] --- NAZIONE FILE CHECK
+[05/02/2021 16:51:39] new date added: {'2021-02-05T17:00:00'}
+[05/02/2021 16:51:39] --- PROVINCE CODE FILE CHECK
+[05/02/2021 16:51:39] no new province code added
+[05/02/2021 16:51:39] --- REGIONI FILE CHECK
+[05/02/2021 16:51:39] no new regioni added
+[05/02/2021 16:51:39] new date added: {'2021-02-05T17:00:00'}
