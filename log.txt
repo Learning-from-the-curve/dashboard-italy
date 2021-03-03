@@ -1910,3 +1910,10 @@
 [02/03/2021 16:45:26] --- REGIONI FILE CHECK
 [02/03/2021 16:45:26] no new regioni added
 [02/03/2021 16:45:26] new date added: {'2021-03-02T17:00:00'}
+[03/03/2021 16:53:57] --- NAZIONE FILE CHECK
+[03/03/2021 16:53:57] new date added: {'2021-03-03T17:00:00'}
+[03/03/2021 16:53:57] --- PROVINCE CODE FILE CHECK
+[03/03/2021 16:53:57] no new province code added
+[03/03/2021 16:53:57] --- REGIONI FILE CHECK
+[03/03/2021 16:53:57] no new regioni added
+[03/03/2021 16:53:57] new date added: {'2021-03-03T17:00:00'}
