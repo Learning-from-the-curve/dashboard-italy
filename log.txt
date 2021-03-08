@@ -1945,3 +1945,10 @@
 [07/03/2021 16:53:32] --- REGIONI FILE CHECK
 [07/03/2021 16:53:32] no new regioni added
 [07/03/2021 16:53:32] no new date added
+[08/03/2021 16:54:42] --- NAZIONE FILE CHECK
+[08/03/2021 16:54:42] multiple new dates added: {'2021-03-07T17:00:00', '2021-03-08T17:00:00'}
+[08/03/2021 16:54:42] --- PROVINCE CODE FILE CHECK
+[08/03/2021 16:54:42] no new province code added
+[08/03/2021 16:54:42] --- REGIONI FILE CHECK
+[08/03/2021 16:54:42] no new regioni added
+[08/03/2021 16:54:42] multiple new dates added: {'2021-03-07T17:00:00', '2021-03-08T17:00:00'}
