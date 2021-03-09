@@ -1952,3 +1952,10 @@
 [08/03/2021 16:54:42] --- REGIONI FILE CHECK
 [08/03/2021 16:54:42] no new regioni added
 [08/03/2021 16:54:42] multiple new dates added: {'2021-03-07T17:00:00', '2021-03-08T17:00:00'}
+[09/03/2021 16:58:47] --- NAZIONE FILE CHECK
+[09/03/2021 16:58:47] new date added: {'2021-03-09T17:00:00'}
+[09/03/2021 16:58:47] --- PROVINCE CODE FILE CHECK
+[09/03/2021 16:58:47] no new province code added
+[09/03/2021 16:58:47] --- REGIONI FILE CHECK
+[09/03/2021 16:58:47] no new regioni added
+[09/03/2021 16:58:47] new date added: {'2021-03-09T17:00:00'}
