@@ -1959,3 +1959,10 @@
 [09/03/2021 16:58:47] --- REGIONI FILE CHECK
 [09/03/2021 16:58:47] no new regioni added
 [09/03/2021 16:58:47] new date added: {'2021-03-09T17:00:00'}
+[10/03/2021 16:55:03] --- NAZIONE FILE CHECK
+[10/03/2021 16:55:03] new date added: {'2021-03-10T17:00:00'}
+[10/03/2021 16:55:03] --- PROVINCE CODE FILE CHECK
+[10/03/2021 16:55:03] no new province code added
+[10/03/2021 16:55:03] --- REGIONI FILE CHECK
+[10/03/2021 16:55:03] no new regioni added
+[10/03/2021 16:55:03] new date added: {'2021-03-10T17:00:00'}
