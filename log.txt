@@ -1973,3 +1973,10 @@
 [11/03/2021 16:55:41] --- REGIONI FILE CHECK
 [11/03/2021 16:55:41] no new regioni added
 [11/03/2021 16:55:41] new date added: {'2021-03-11T17:00:00'}
+[12/03/2021 16:55:33] --- NAZIONE FILE CHECK
+[12/03/2021 16:55:33] new date added: {'2021-03-12T17:00:00'}
+[12/03/2021 16:55:33] --- PROVINCE CODE FILE CHECK
+[12/03/2021 16:55:33] no new province code added
+[12/03/2021 16:55:33] --- REGIONI FILE CHECK
+[12/03/2021 16:55:33] no new regioni added
+[12/03/2021 16:55:33] new date added: {'2021-03-12T17:00:00'}
