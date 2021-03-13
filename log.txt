@@ -1980,3 +1980,10 @@
 [12/03/2021 16:55:33] --- REGIONI FILE CHECK
 [12/03/2021 16:55:33] no new regioni added
 [12/03/2021 16:55:33] new date added: {'2021-03-12T17:00:00'}
+[13/03/2021 16:55:13] --- NAZIONE FILE CHECK
+[13/03/2021 16:55:13] new date added: {'2021-03-13T17:00:00'}
+[13/03/2021 16:55:13] --- PROVINCE CODE FILE CHECK
+[13/03/2021 16:55:13] no new province code added
+[13/03/2021 16:55:13] --- REGIONI FILE CHECK
+[13/03/2021 16:55:13] no new regioni added
+[13/03/2021 16:55:13] new date added: {'2021-03-13T17:00:00'}
