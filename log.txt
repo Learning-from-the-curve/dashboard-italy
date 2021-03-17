@@ -2008,3 +2008,10 @@
 [16/03/2021 16:56:37] --- REGIONI FILE CHECK
 [16/03/2021 16:56:37] no new regioni added
 [16/03/2021 16:56:37] new date added: {'2021-03-16T17:00:00'}
+[17/03/2021 17:01:14] --- NAZIONE FILE CHECK
+[17/03/2021 17:01:14] new date added: {'2021-03-17T17:00:00'}
+[17/03/2021 17:01:14] --- PROVINCE CODE FILE CHECK
+[17/03/2021 17:01:14] no new province code added
+[17/03/2021 17:01:14] --- REGIONI FILE CHECK
+[17/03/2021 17:01:14] no new regioni added
+[17/03/2021 17:01:14] new date added: {'2021-03-17T17:00:00'}
