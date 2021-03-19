@@ -2022,3 +2022,10 @@
 [18/03/2021 16:57:00] --- REGIONI FILE CHECK
 [18/03/2021 16:57:00] no new regioni added
 [18/03/2021 16:57:00] new date added: {'2021-03-18T17:00:00'}
+[19/03/2021 16:58:02] --- NAZIONE FILE CHECK
+[19/03/2021 16:58:02] new date added: {'2021-03-19T17:00:00'}
+[19/03/2021 16:58:02] --- PROVINCE CODE FILE CHECK
+[19/03/2021 16:58:02] no new province code added
+[19/03/2021 16:58:02] --- REGIONI FILE CHECK
+[19/03/2021 16:58:02] no new regioni added
+[19/03/2021 16:58:02] new date added: {'2021-03-19T17:00:00'}
