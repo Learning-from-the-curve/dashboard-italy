@@ -2029,3 +2029,10 @@
 [19/03/2021 16:58:02] --- REGIONI FILE CHECK
 [19/03/2021 16:58:02] no new regioni added
 [19/03/2021 16:58:02] new date added: {'2021-03-19T17:00:00'}
+[20/03/2021 17:03:15] --- NAZIONE FILE CHECK
+[20/03/2021 17:03:15] new date added: {'2021-03-20T17:00:00'}
+[20/03/2021 17:03:15] --- PROVINCE CODE FILE CHECK
+[20/03/2021 17:03:15] no new province code added
+[20/03/2021 17:03:15] --- REGIONI FILE CHECK
+[20/03/2021 17:03:15] no new regioni added
+[20/03/2021 17:03:15] new date added: {'2021-03-20T17:00:00'}
