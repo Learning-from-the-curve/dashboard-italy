@@ -2183,3 +2183,10 @@
 [10/04/2021 17:04:47] --- REGIONI FILE CHECK
 [10/04/2021 17:04:47] no new regioni added
 [10/04/2021 17:04:47] new date added: {'2021-04-10T17:00:00'}
+[11/04/2021 17:05:00] --- NAZIONE FILE CHECK
+[11/04/2021 17:05:00] new date added: {'2021-04-11T17:00:00'}
+[11/04/2021 17:05:00] --- PROVINCE CODE FILE CHECK
+[11/04/2021 17:05:00] no new province code added
+[11/04/2021 17:05:00] --- REGIONI FILE CHECK
+[11/04/2021 17:05:00] no new regioni added
+[11/04/2021 17:05:00] new date added: {'2021-04-11T17:00:00'}
