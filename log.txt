@@ -2232,3 +2232,10 @@
 [17/04/2021 17:03:48] --- REGIONI FILE CHECK
 [17/04/2021 17:03:48] no new regioni added
 [17/04/2021 17:03:48] new date added: {'2021-04-17T17:00:00'}
+[18/04/2021 17:03:26] --- NAZIONE FILE CHECK
+[18/04/2021 17:03:26] new date added: {'2021-04-18T17:00:00'}
+[18/04/2021 17:03:26] --- PROVINCE CODE FILE CHECK
+[18/04/2021 17:03:26] no new province code added
+[18/04/2021 17:03:26] --- REGIONI FILE CHECK
+[18/04/2021 17:03:26] no new regioni added
+[18/04/2021 17:03:26] new date added: {'2021-04-18T17:00:00'}
