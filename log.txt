@@ -2400,3 +2400,10 @@
 [11/05/2021 17:05:05] --- REGIONI FILE CHECK
 [11/05/2021 17:05:05] no new regioni added
 [11/05/2021 17:05:05] new date added: {'2021-05-11T17:00:00'}
+[12/05/2021 17:09:11] --- NAZIONE FILE CHECK
+[12/05/2021 17:09:11] new date added: {'2021-05-12T17:00:00'}
+[12/05/2021 17:09:11] --- PROVINCE CODE FILE CHECK
+[12/05/2021 17:09:11] no new province code added
+[12/05/2021 17:09:11] --- REGIONI FILE CHECK
+[12/05/2021 17:09:11] no new regioni added
+[12/05/2021 17:09:11] new date added: {'2021-05-12T17:00:00'}
