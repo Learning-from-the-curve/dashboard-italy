@@ -2533,3 +2533,10 @@
 [30/05/2021 17:55:59] --- REGIONI FILE CHECK
 [30/05/2021 17:55:59] no new regioni added
 [30/05/2021 17:55:59] new date added: {'2021-05-30T17:00:00'}
+[31/05/2021 18:20:39] --- NAZIONE FILE CHECK
+[31/05/2021 18:20:39] new date added: {'2021-05-31T17:00:00'}
+[31/05/2021 18:20:39] --- PROVINCE CODE FILE CHECK
+[31/05/2021 18:20:39] no new province code added
+[31/05/2021 18:20:39] --- REGIONI FILE CHECK
+[31/05/2021 18:20:39] no new regioni added
+[31/05/2021 18:20:39] new date added: {'2021-05-31T17:00:00'}
