@@ -2624,3 +2624,10 @@
 [12/06/2021 16:55:56] --- REGIONI FILE CHECK
 [12/06/2021 16:55:56] no new regioni added
 [12/06/2021 16:55:56] new date added: {'2021-06-12T17:00:00'}
+[13/06/2021 16:55:38] --- NAZIONE FILE CHECK
+[13/06/2021 16:55:38] new date added: {'2021-06-13T17:00:00'}
+[13/06/2021 16:55:38] --- PROVINCE CODE FILE CHECK
+[13/06/2021 16:55:38] no new province code added
+[13/06/2021 16:55:38] --- REGIONI FILE CHECK
+[13/06/2021 16:55:38] no new regioni added
+[13/06/2021 16:55:38] new date added: {'2021-06-13T17:00:00'}
