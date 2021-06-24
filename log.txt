@@ -2701,3 +2701,10 @@
 [23/06/2021 16:45:45] --- REGIONI FILE CHECK
 [23/06/2021 16:45:45] no new regioni added
 [23/06/2021 16:45:45] new date added: {'2021-06-23T17:00:00'}
+[24/06/2021 16:46:32] --- NAZIONE FILE CHECK
+[24/06/2021 16:46:32] new date added: {'2021-06-24T17:00:00'}
+[24/06/2021 16:46:32] --- PROVINCE CODE FILE CHECK
+[24/06/2021 16:46:32] no new province code added
+[24/06/2021 16:46:32] --- REGIONI FILE CHECK
+[24/06/2021 16:46:32] no new regioni added
+[24/06/2021 16:46:32] new date added: {'2021-06-24T17:00:00'}
