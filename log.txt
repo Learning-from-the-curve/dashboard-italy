@@ -2743,3 +2743,10 @@
 [29/06/2021 16:49:15] --- REGIONI FILE CHECK
 [29/06/2021 16:49:15] no new regioni added
 [29/06/2021 16:49:15] multiple new dates added: {'2021-06-29T17:00:00', '2021-06-28T17:00:00'}
+[30/06/2021 16:51:02] --- NAZIONE FILE CHECK
+[30/06/2021 16:51:02] new date added: {'2021-06-30T17:00:00'}
+[30/06/2021 16:51:02] --- PROVINCE CODE FILE CHECK
+[30/06/2021 16:51:02] no new province code added
+[30/06/2021 16:51:02] --- REGIONI FILE CHECK
+[30/06/2021 16:51:02] no new regioni added
+[30/06/2021 16:51:02] new date added: {'2021-06-30T17:00:00'}
