@@ -2827,3 +2827,10 @@
 [11/07/2021 16:46:24] --- REGIONI FILE CHECK
 [11/07/2021 16:46:24] no new regioni added
 [11/07/2021 16:46:24] new date added: {'2021-07-11T17:00:00'}
+[12/07/2021 16:50:24] --- NAZIONE FILE CHECK
+[12/07/2021 16:50:24] new date added: {'2021-07-12T17:00:00'}
+[12/07/2021 16:50:24] --- PROVINCE CODE FILE CHECK
+[12/07/2021 16:50:24] no new province code added
+[12/07/2021 16:50:24] --- REGIONI FILE CHECK
+[12/07/2021 16:50:24] no new regioni added
+[12/07/2021 16:50:24] new date added: {'2021-07-12T17:00:00'}
