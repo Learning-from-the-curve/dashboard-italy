@@ -2841,3 +2841,10 @@
 [13/07/2021 16:48:50] --- REGIONI FILE CHECK
 [13/07/2021 16:48:50] no new regioni added
 [13/07/2021 16:48:50] new date added: {'2021-07-13T17:00:00'}
+[14/07/2021 16:48:17] --- NAZIONE FILE CHECK
+[14/07/2021 16:48:17] new date added: {'2021-07-14T17:00:00'}
+[14/07/2021 16:48:17] --- PROVINCE CODE FILE CHECK
+[14/07/2021 16:48:17] no new province code added
+[14/07/2021 16:48:17] --- REGIONI FILE CHECK
+[14/07/2021 16:48:17] no new regioni added
+[14/07/2021 16:48:17] new date added: {'2021-07-14T17:00:00'}
