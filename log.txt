@@ -2848,3 +2848,10 @@
 [14/07/2021 16:48:17] --- REGIONI FILE CHECK
 [14/07/2021 16:48:17] no new regioni added
 [14/07/2021 16:48:17] new date added: {'2021-07-14T17:00:00'}
+[15/07/2021 16:48:25] --- NAZIONE FILE CHECK
+[15/07/2021 16:48:25] new date added: {'2021-07-15T17:00:00'}
+[15/07/2021 16:48:25] --- PROVINCE CODE FILE CHECK
+[15/07/2021 16:48:25] no new province code added
+[15/07/2021 16:48:25] --- REGIONI FILE CHECK
+[15/07/2021 16:48:25] no new regioni added
+[15/07/2021 16:48:25] new date added: {'2021-07-15T17:00:00'}
