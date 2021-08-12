@@ -3044,3 +3044,10 @@
 [11/08/2021 16:47:07] --- REGIONI FILE CHECK
 [11/08/2021 16:47:07] no new regioni added
 [11/08/2021 16:47:07] new date added: {'2021-08-11T17:00:00'}
+[12/08/2021 16:48:24] --- NAZIONE FILE CHECK
+[12/08/2021 16:48:24] new date added: {'2021-08-12T17:00:00'}
+[12/08/2021 16:48:24] --- PROVINCE CODE FILE CHECK
+[12/08/2021 16:48:24] no new province code added
+[12/08/2021 16:48:24] --- REGIONI FILE CHECK
+[12/08/2021 16:48:24] no new regioni added
+[12/08/2021 16:48:24] new date added: {'2021-08-12T17:00:00'}
