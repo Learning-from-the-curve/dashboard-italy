@@ -3065,3 +3065,10 @@
 [14/08/2021 16:46:18] --- REGIONI FILE CHECK
 [14/08/2021 16:46:18] no new regioni added
 [14/08/2021 16:46:18] new date added: {'2021-08-14T17:00:00'}
+[15/08/2021 16:45:55] --- NAZIONE FILE CHECK
+[15/08/2021 16:45:55] new date added: {'2021-08-15T17:00:00'}
+[15/08/2021 16:45:55] --- PROVINCE CODE FILE CHECK
+[15/08/2021 16:45:55] no new province code added
+[15/08/2021 16:45:55] --- REGIONI FILE CHECK
+[15/08/2021 16:45:55] no new regioni added
+[15/08/2021 16:45:55] new date added: {'2021-08-15T17:00:00'}
