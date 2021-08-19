@@ -3093,3 +3093,10 @@
 [18/08/2021 16:45:36] --- REGIONI FILE CHECK
 [18/08/2021 16:45:36] no new regioni added
 [18/08/2021 16:45:36] new date added: {'2021-08-18T17:00:00'}
+[19/08/2021 16:47:41] --- NAZIONE FILE CHECK
+[19/08/2021 16:47:41] new date added: {'2021-08-19T17:00:00'}
+[19/08/2021 16:47:41] --- PROVINCE CODE FILE CHECK
+[19/08/2021 16:47:41] no new province code added
+[19/08/2021 16:47:41] --- REGIONI FILE CHECK
+[19/08/2021 16:47:41] no new regioni added
+[19/08/2021 16:47:41] new date added: {'2021-08-19T17:00:00'}
