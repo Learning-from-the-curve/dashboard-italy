@@ -3107,3 +3107,10 @@
 [20/08/2021 16:47:05] --- REGIONI FILE CHECK
 [20/08/2021 16:47:05] no new regioni added
 [20/08/2021 16:47:05] new date added: {'2021-08-20T17:00:00'}
+[21/08/2021 16:45:53] --- NAZIONE FILE CHECK
+[21/08/2021 16:45:53] new date added: {'2021-08-21T17:00:00'}
+[21/08/2021 16:45:53] --- PROVINCE CODE FILE CHECK
+[21/08/2021 16:45:53] no new province code added
+[21/08/2021 16:45:53] --- REGIONI FILE CHECK
+[21/08/2021 16:45:53] no new regioni added
+[21/08/2021 16:45:53] new date added: {'2021-08-21T17:00:00'}
