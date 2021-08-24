@@ -3128,3 +3128,10 @@
 [23/08/2021 16:48:40] --- REGIONI FILE CHECK
 [23/08/2021 16:48:40] no new regioni added
 [23/08/2021 16:48:40] new date added: {'2021-08-23T17:00:00'}
+[24/08/2021 16:47:35] --- NAZIONE FILE CHECK
+[24/08/2021 16:47:35] new date added: {'2021-08-24T17:00:00'}
+[24/08/2021 16:47:35] --- PROVINCE CODE FILE CHECK
+[24/08/2021 16:47:35] no new province code added
+[24/08/2021 16:47:35] --- REGIONI FILE CHECK
+[24/08/2021 16:47:35] no new regioni added
+[24/08/2021 16:47:35] new date added: {'2021-08-24T17:00:00'}
