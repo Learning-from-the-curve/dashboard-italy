@@ -3135,3 +3135,10 @@
 [24/08/2021 16:47:35] --- REGIONI FILE CHECK
 [24/08/2021 16:47:35] no new regioni added
 [24/08/2021 16:47:35] new date added: {'2021-08-24T17:00:00'}
+[25/08/2021 16:47:42] --- NAZIONE FILE CHECK
+[25/08/2021 16:47:42] new date added: {'2021-08-25T17:00:00'}
+[25/08/2021 16:47:42] --- PROVINCE CODE FILE CHECK
+[25/08/2021 16:47:42] no new province code added
+[25/08/2021 16:47:42] --- REGIONI FILE CHECK
+[25/08/2021 16:47:42] no new regioni added
+[25/08/2021 16:47:42] new date added: {'2021-08-25T17:00:00'}
