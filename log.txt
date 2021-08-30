@@ -3170,3 +3170,10 @@
 [29/08/2021 16:46:06] --- REGIONI FILE CHECK
 [29/08/2021 16:46:06] no new regioni added
 [29/08/2021 16:46:06] new date added: {'2021-08-29T17:00:00'}
+[30/08/2021 16:47:45] --- NAZIONE FILE CHECK
+[30/08/2021 16:47:45] new date added: {'2021-08-30T17:00:00'}
+[30/08/2021 16:47:45] --- PROVINCE CODE FILE CHECK
+[30/08/2021 16:47:45] no new province code added
+[30/08/2021 16:47:45] --- REGIONI FILE CHECK
+[30/08/2021 16:47:45] no new regioni added
+[30/08/2021 16:47:45] new date added: {'2021-08-30T17:00:00'}
