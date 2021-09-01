@@ -3184,3 +3184,10 @@
 [31/08/2021 16:47:18] --- REGIONI FILE CHECK
 [31/08/2021 16:47:18] no new regioni added
 [31/08/2021 16:47:18] new date added: {'2021-08-31T17:00:00'}
+[01/09/2021 16:48:01] --- NAZIONE FILE CHECK
+[01/09/2021 16:48:01] new date added: {'2021-09-01T17:00:00'}
+[01/09/2021 16:48:01] --- PROVINCE CODE FILE CHECK
+[01/09/2021 16:48:01] no new province code added
+[01/09/2021 16:48:01] --- REGIONI FILE CHECK
+[01/09/2021 16:48:01] no new regioni added
+[01/09/2021 16:48:01] new date added: {'2021-09-01T17:00:00'}
