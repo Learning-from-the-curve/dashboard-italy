@@ -3240,3 +3240,10 @@
 [08/09/2021 16:47:26] --- REGIONI FILE CHECK
 [08/09/2021 16:47:26] no new regioni added
 [08/09/2021 16:47:26] new date added: {'2021-09-08T17:00:00'}
+[09/09/2021 16:47:00] --- NAZIONE FILE CHECK
+[09/09/2021 16:47:00] new date added: {'2021-09-09T17:00:00'}
+[09/09/2021 16:47:00] --- PROVINCE CODE FILE CHECK
+[09/09/2021 16:47:00] no new province code added
+[09/09/2021 16:47:00] --- REGIONI FILE CHECK
+[09/09/2021 16:47:00] no new regioni added
+[09/09/2021 16:47:00] new date added: {'2021-09-09T17:00:00'}
