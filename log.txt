@@ -3261,3 +3261,10 @@
 [11/09/2021 16:45:33] --- REGIONI FILE CHECK
 [11/09/2021 16:45:33] no new regioni added
 [11/09/2021 16:45:33] new date added: {'2021-09-11T17:00:00'}
+[12/09/2021 16:45:32] --- NAZIONE FILE CHECK
+[12/09/2021 16:45:32] new date added: {'2021-09-12T17:00:00'}
+[12/09/2021 16:45:32] --- PROVINCE CODE FILE CHECK
+[12/09/2021 16:45:32] no new province code added
+[12/09/2021 16:45:32] --- REGIONI FILE CHECK
+[12/09/2021 16:45:32] no new regioni added
+[12/09/2021 16:45:32] new date added: {'2021-09-12T17:00:00'}
