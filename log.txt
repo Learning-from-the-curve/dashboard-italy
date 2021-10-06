@@ -3429,3 +3429,10 @@
 [05/10/2021 16:46:49] --- REGIONI FILE CHECK
 [05/10/2021 16:46:49] no new regioni added
 [05/10/2021 16:46:49] new date added: {'2021-10-05T17:00:00'}
+[06/10/2021 16:43:43] --- NAZIONE FILE CHECK
+[06/10/2021 16:43:43] new date added: {'2021-10-06T17:00:00'}
+[06/10/2021 16:43:43] --- PROVINCE CODE FILE CHECK
+[06/10/2021 16:43:43] no new province code added
+[06/10/2021 16:43:43] --- REGIONI FILE CHECK
+[06/10/2021 16:43:43] no new regioni added
+[06/10/2021 16:43:43] new date added: {'2021-10-06T17:00:00'}
