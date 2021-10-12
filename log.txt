@@ -3471,3 +3471,10 @@
 [11/10/2021 16:46:21] --- REGIONI FILE CHECK
 [11/10/2021 16:46:21] no new regioni added
 [11/10/2021 16:46:21] new date added: {'2021-10-11T17:00:00'}
+[12/10/2021 16:46:15] --- NAZIONE FILE CHECK
+[12/10/2021 16:46:15] new date added: {'2021-10-12T17:00:00'}
+[12/10/2021 16:46:15] --- PROVINCE CODE FILE CHECK
+[12/10/2021 16:46:15] no new province code added
+[12/10/2021 16:46:15] --- REGIONI FILE CHECK
+[12/10/2021 16:46:15] no new regioni added
+[12/10/2021 16:46:15] new date added: {'2021-10-12T17:00:00'}
