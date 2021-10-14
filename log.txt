@@ -3485,3 +3485,10 @@
 [13/10/2021 16:45:45] --- REGIONI FILE CHECK
 [13/10/2021 16:45:45] no new regioni added
 [13/10/2021 16:45:45] new date added: {'2021-10-13T17:00:00'}
+[14/10/2021 16:46:05] --- NAZIONE FILE CHECK
+[14/10/2021 16:46:05] new date added: {'2021-10-14T17:00:00'}
+[14/10/2021 16:46:05] --- PROVINCE CODE FILE CHECK
+[14/10/2021 16:46:05] no new province code added
+[14/10/2021 16:46:05] --- REGIONI FILE CHECK
+[14/10/2021 16:46:05] no new regioni added
+[14/10/2021 16:46:05] new date added: {'2021-10-14T17:00:00'}
