@@ -3604,3 +3604,10 @@
 [30/10/2021 16:45:29] --- REGIONI FILE CHECK
 [30/10/2021 16:45:29] no new regioni added
 [30/10/2021 16:45:29] new date added: {'2021-10-30T17:00:00'}
+[31/10/2021 16:45:33] --- NAZIONE FILE CHECK
+[31/10/2021 16:45:33] new date added: {'2021-10-31T17:00:00'}
+[31/10/2021 16:45:33] --- PROVINCE CODE FILE CHECK
+[31/10/2021 16:45:33] no new province code added
+[31/10/2021 16:45:33] --- REGIONI FILE CHECK
+[31/10/2021 16:45:33] no new regioni added
+[31/10/2021 16:45:33] new date added: {'2021-10-31T17:00:00'}
