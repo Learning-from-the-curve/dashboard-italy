@@ -3681,3 +3681,10 @@
 [10/11/2021 16:45:02] --- REGIONI FILE CHECK
 [10/11/2021 16:45:02] no new regioni added
 [10/11/2021 16:45:02] new date added: {'2021-11-10T17:00:00'}
+[11/11/2021 16:47:48] --- NAZIONE FILE CHECK
+[11/11/2021 16:47:48] new date added: {'2021-11-11T17:00:00'}
+[11/11/2021 16:47:48] --- PROVINCE CODE FILE CHECK
+[11/11/2021 16:47:48] no new province code added
+[11/11/2021 16:47:48] --- REGIONI FILE CHECK
+[11/11/2021 16:47:48] no new regioni added
+[11/11/2021 16:47:48] new date added: {'2021-11-11T17:00:00'}
