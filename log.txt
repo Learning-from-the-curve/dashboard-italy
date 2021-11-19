@@ -3737,3 +3737,10 @@
 [18/11/2021 16:47:20] --- REGIONI FILE CHECK
 [18/11/2021 16:47:20] no new regioni added
 [18/11/2021 16:47:20] new date added: {'2021-11-18T17:00:00'}
+[19/11/2021 16:46:02] --- NAZIONE FILE CHECK
+[19/11/2021 16:46:02] new date added: {'2021-11-19T17:00:00'}
+[19/11/2021 16:46:02] --- PROVINCE CODE FILE CHECK
+[19/11/2021 16:46:02] no new province code added
+[19/11/2021 16:46:02] --- REGIONI FILE CHECK
+[19/11/2021 16:46:02] no new regioni added
+[19/11/2021 16:46:02] new date added: {'2021-11-19T17:00:00'}
