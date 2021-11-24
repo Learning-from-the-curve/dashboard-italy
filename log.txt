@@ -3751,3 +3751,10 @@
 [23/11/2021 16:46:24] --- REGIONI FILE CHECK
 [23/11/2021 16:46:24] no new regioni added
 [23/11/2021 16:46:24] multiple new dates added: {'2021-11-22T17:00:00', '2021-11-20T17:00:00', '2021-11-21T17:00:00'}
+[24/11/2021 16:48:06] --- NAZIONE FILE CHECK
+[24/11/2021 16:48:06] new date added: {'2021-11-23T17:00:00'}
+[24/11/2021 16:48:06] --- PROVINCE CODE FILE CHECK
+[24/11/2021 16:48:06] no new province code added
+[24/11/2021 16:48:06] --- REGIONI FILE CHECK
+[24/11/2021 16:48:06] no new regioni added
+[24/11/2021 16:48:06] new date added: {'2021-11-23T17:00:00'}
