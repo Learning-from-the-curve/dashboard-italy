@@ -3814,3 +3814,10 @@
 [02/12/2021 16:48:16] --- REGIONI FILE CHECK
 [02/12/2021 16:48:16] no new regioni added
 [02/12/2021 16:48:16] multiple new dates added: {'2021-12-01T17:00:00', '2021-12-02T17:00:00'}
+[03/12/2021 16:48:24] --- NAZIONE FILE CHECK
+[03/12/2021 16:48:24] no new date added
+[03/12/2021 16:48:24] --- PROVINCE CODE FILE CHECK
+[03/12/2021 16:48:24] no new province code added
+[03/12/2021 16:48:24] --- REGIONI FILE CHECK
+[03/12/2021 16:48:24] no new regioni added
+[03/12/2021 16:48:24] no new date added
