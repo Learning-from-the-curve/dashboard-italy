@@ -3905,3 +3905,10 @@
 [15/12/2021 16:48:17] --- REGIONI FILE CHECK
 [15/12/2021 16:48:17] no new regioni added
 [15/12/2021 16:48:17] new date added: {'2021-12-15T17:00:00'}
+[16/12/2021 16:49:54] --- NAZIONE FILE CHECK
+[16/12/2021 16:49:54] no new date added
+[16/12/2021 16:49:54] --- PROVINCE CODE FILE CHECK
+[16/12/2021 16:49:54] no new province code added
+[16/12/2021 16:49:54] --- REGIONI FILE CHECK
+[16/12/2021 16:49:54] no new regioni added
+[16/12/2021 16:49:54] no new date added
