@@ -3940,3 +3940,10 @@
 [20/12/2021 16:50:52] --- REGIONI FILE CHECK
 [20/12/2021 16:50:52] no new regioni added
 [20/12/2021 16:50:52] new date added: {'2021-12-20T17:00:00'}
+[21/12/2021 16:49:51] --- NAZIONE FILE CHECK
+[21/12/2021 16:49:51] no new date added
+[21/12/2021 16:49:51] --- PROVINCE CODE FILE CHECK
+[21/12/2021 16:49:51] no new province code added
+[21/12/2021 16:49:51] --- REGIONI FILE CHECK
+[21/12/2021 16:49:51] no new regioni added
+[21/12/2021 16:49:51] no new date added
