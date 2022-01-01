@@ -4017,3 +4017,10 @@
 [31/12/2021 16:48:55] --- REGIONI FILE CHECK
 [31/12/2021 16:48:55] no new regioni added
 [31/12/2021 16:48:55] multiple new dates added: {'2021-12-30T17:00:00', '2021-12-31T17:00:00'}
+[01/01/2022 16:48:35] --- NAZIONE FILE CHECK
+[01/01/2022 16:48:35] no new date added
+[01/01/2022 16:48:35] --- PROVINCE CODE FILE CHECK
+[01/01/2022 16:48:35] no new province code added
+[01/01/2022 16:48:35] --- REGIONI FILE CHECK
+[01/01/2022 16:48:35] no new regioni added
+[01/01/2022 16:48:35] no new date added
