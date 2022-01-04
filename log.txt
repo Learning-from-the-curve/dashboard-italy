@@ -4038,3 +4038,10 @@
 [03/01/2022 16:50:55] --- REGIONI FILE CHECK
 [03/01/2022 16:50:55] no new regioni added
 [03/01/2022 16:50:55] new date added: {'2022-01-03T17:00:00'}
+[04/01/2022 16:50:03] --- NAZIONE FILE CHECK
+[04/01/2022 16:50:03] no new date added
+[04/01/2022 16:50:03] --- PROVINCE CODE FILE CHECK
+[04/01/2022 16:50:03] no new province code added
+[04/01/2022 16:50:03] --- REGIONI FILE CHECK
+[04/01/2022 16:50:03] no new regioni added
+[04/01/2022 16:50:03] no new date added
