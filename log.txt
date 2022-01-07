@@ -4059,3 +4059,10 @@
 [06/01/2022 16:50:29] --- REGIONI FILE CHECK
 [06/01/2022 16:50:29] no new regioni added
 [06/01/2022 16:50:29] new date added: {'2022-01-06T17:00:00'}
+[07/01/2022 16:50:22] --- NAZIONE FILE CHECK
+[07/01/2022 16:50:22] new date added: {'2022-01-07T17:00:00'}
+[07/01/2022 16:50:22] --- PROVINCE CODE FILE CHECK
+[07/01/2022 16:50:22] no new province code added
+[07/01/2022 16:50:22] --- REGIONI FILE CHECK
+[07/01/2022 16:50:22] no new regioni added
+[07/01/2022 16:50:22] new date added: {'2022-01-07T17:00:00'}
