@@ -4073,3 +4073,10 @@
 [08/01/2022 16:48:52] --- REGIONI FILE CHECK
 [08/01/2022 16:48:52] no new regioni added
 [08/01/2022 16:48:52] new date added: {'2022-01-08T17:00:00'}
+[09/01/2022 16:49:03] --- NAZIONE FILE CHECK
+[09/01/2022 16:49:03] no new date added
+[09/01/2022 16:49:03] --- PROVINCE CODE FILE CHECK
+[09/01/2022 16:49:03] no new province code added
+[09/01/2022 16:49:03] --- REGIONI FILE CHECK
+[09/01/2022 16:49:03] no new regioni added
+[09/01/2022 16:49:03] no new date added
