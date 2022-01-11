@@ -4087,3 +4087,10 @@
 [10/01/2022 16:50:51] --- REGIONI FILE CHECK
 [10/01/2022 16:50:51] no new regioni added
 [10/01/2022 16:50:51] multiple new dates added: {'2022-01-09T17:00:00', '2022-01-10T17:00:00'}
+[11/01/2022 16:50:29] --- NAZIONE FILE CHECK
+[11/01/2022 16:50:29] no new date added
+[11/01/2022 16:50:29] --- PROVINCE CODE FILE CHECK
+[11/01/2022 16:50:29] no new province code added
+[11/01/2022 16:50:29] --- REGIONI FILE CHECK
+[11/01/2022 16:50:29] no new regioni added
+[11/01/2022 16:50:29] no new date added
