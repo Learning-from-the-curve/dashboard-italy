@@ -4094,3 +4094,10 @@
 [11/01/2022 16:50:29] --- REGIONI FILE CHECK
 [11/01/2022 16:50:29] no new regioni added
 [11/01/2022 16:50:29] no new date added
+[12/01/2022 16:50:21] --- NAZIONE FILE CHECK
+[12/01/2022 16:50:21] new date added: {'2022-01-11T17:00:00'}
+[12/01/2022 16:50:21] --- PROVINCE CODE FILE CHECK
+[12/01/2022 16:50:21] no new province code added
+[12/01/2022 16:50:21] --- REGIONI FILE CHECK
+[12/01/2022 16:50:21] no new regioni added
+[12/01/2022 16:50:21] new date added: {'2022-01-11T17:00:00'}
