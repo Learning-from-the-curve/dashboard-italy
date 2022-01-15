@@ -4115,3 +4115,10 @@
 [14/01/2022 16:48:02] --- REGIONI FILE CHECK
 [14/01/2022 16:48:02] no new regioni added
 [14/01/2022 16:48:02] no new date added
+[15/01/2022 16:48:47] --- NAZIONE FILE CHECK
+[15/01/2022 16:48:47] multiple new dates added: {'2022-01-14T17:00:00', '2022-01-15T17:00:00'}
+[15/01/2022 16:48:47] --- PROVINCE CODE FILE CHECK
+[15/01/2022 16:48:47] no new province code added
+[15/01/2022 16:48:47] --- REGIONI FILE CHECK
+[15/01/2022 16:48:47] no new regioni added
+[15/01/2022 16:48:47] multiple new dates added: {'2022-01-14T17:00:00', '2022-01-15T17:00:00'}
