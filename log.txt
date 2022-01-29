@@ -4213,3 +4213,10 @@
 [28/01/2022 16:43:59] --- REGIONI FILE CHECK
 [28/01/2022 16:43:59] no new regioni added
 [28/01/2022 16:43:59] new date added: {'2022-01-28T17:00:00'}
+[29/01/2022 16:42:44] --- NAZIONE FILE CHECK
+[29/01/2022 16:42:44] no new date added
+[29/01/2022 16:42:44] --- PROVINCE CODE FILE CHECK
+[29/01/2022 16:42:44] no new province code added
+[29/01/2022 16:42:44] --- REGIONI FILE CHECK
+[29/01/2022 16:42:44] no new regioni added
+[29/01/2022 16:42:44] no new date added
