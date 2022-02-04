@@ -4255,3 +4255,10 @@
 [03/02/2022 16:45:12] --- REGIONI FILE CHECK
 [03/02/2022 16:45:12] no new regioni added
 [03/02/2022 16:45:12] multiple new dates added: {'2022-02-03T17:00:00', '2022-02-02T17:00:00'}
+[04/02/2022 16:36:56] --- NAZIONE FILE CHECK
+[04/02/2022 16:36:56] new date added: {'2022-02-04T17:00:00'}
+[04/02/2022 16:36:56] --- PROVINCE CODE FILE CHECK
+[04/02/2022 16:36:56] no new province code added
+[04/02/2022 16:36:56] --- REGIONI FILE CHECK
+[04/02/2022 16:36:56] no new regioni added
+[04/02/2022 16:36:56] new date added: {'2022-02-04T17:00:00'}
