@@ -4311,3 +4311,10 @@
 [11/02/2022 16:37:13] --- REGIONI FILE CHECK
 [11/02/2022 16:37:13] no new regioni added
 [11/02/2022 16:37:13] no new date added
+[12/02/2022 16:40:29] --- NAZIONE FILE CHECK
+[12/02/2022 16:40:29] new date added: {'2022-02-11T17:00:00'}
+[12/02/2022 16:40:29] --- PROVINCE CODE FILE CHECK
+[12/02/2022 16:40:29] no new province code added
+[12/02/2022 16:40:29] --- REGIONI FILE CHECK
+[12/02/2022 16:40:29] no new regioni added
+[12/02/2022 16:40:29] new date added: {'2022-02-11T17:00:00'}
