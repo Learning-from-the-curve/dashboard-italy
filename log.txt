@@ -4346,3 +4346,10 @@
 [16/02/2022 16:42:11] --- REGIONI FILE CHECK
 [16/02/2022 16:42:11] no new regioni added
 [16/02/2022 16:42:11] new date added: {'2022-02-16T17:00:00'}
+[17/02/2022 16:42:49] --- NAZIONE FILE CHECK
+[17/02/2022 16:42:49] no new date added
+[17/02/2022 16:42:49] --- PROVINCE CODE FILE CHECK
+[17/02/2022 16:42:49] no new province code added
+[17/02/2022 16:42:49] --- REGIONI FILE CHECK
+[17/02/2022 16:42:49] no new regioni added
+[17/02/2022 16:42:49] no new date added
