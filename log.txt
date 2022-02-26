@@ -4409,3 +4409,10 @@
 [25/02/2022 16:42:41] --- REGIONI FILE CHECK
 [25/02/2022 16:42:41] no new regioni added
 [25/02/2022 16:42:41] new date added: {'2022-02-25T17:00:00'}
+[26/02/2022 16:40:54] --- NAZIONE FILE CHECK
+[26/02/2022 16:40:54] no new date added
+[26/02/2022 16:40:54] --- PROVINCE CODE FILE CHECK
+[26/02/2022 16:40:54] no new province code added
+[26/02/2022 16:40:54] --- REGIONI FILE CHECK
+[26/02/2022 16:40:54] no new regioni added
+[26/02/2022 16:40:54] no new date added
