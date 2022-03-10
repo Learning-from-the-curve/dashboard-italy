@@ -4493,3 +4493,10 @@
 [09/03/2022 16:44:01] --- REGIONI FILE CHECK
 [09/03/2022 16:44:01] no new regioni added
 [09/03/2022 16:44:01] new date added: {'2022-03-09T17:00:00'}
+[10/03/2022 16:43:59] --- NAZIONE FILE CHECK
+[10/03/2022 16:43:59] new date added: {'2022-03-10T17:00:00'}
+[10/03/2022 16:43:59] --- PROVINCE CODE FILE CHECK
+[10/03/2022 16:43:59] no new province code added
+[10/03/2022 16:43:59] --- REGIONI FILE CHECK
+[10/03/2022 16:43:59] no new regioni added
+[10/03/2022 16:43:59] new date added: {'2022-03-10T17:00:00'}
