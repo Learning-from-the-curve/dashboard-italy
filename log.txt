@@ -4829,3 +4829,10 @@
 [26/04/2022 16:48:37] --- REGIONI FILE CHECK
 [26/04/2022 16:48:37] no new regioni added
 [26/04/2022 16:48:37] new date added: {'2022-04-26T17:00:00'}
+[27/04/2022 16:50:00] --- NAZIONE FILE CHECK
+[27/04/2022 16:50:00] new date added: {'2022-04-27T17:00:00'}
+[27/04/2022 16:50:00] --- PROVINCE CODE FILE CHECK
+[27/04/2022 16:50:00] no new province code added
+[27/04/2022 16:50:00] --- REGIONI FILE CHECK
+[27/04/2022 16:50:00] no new regioni added
+[27/04/2022 16:50:00] new date added: {'2022-04-27T17:00:00'}
