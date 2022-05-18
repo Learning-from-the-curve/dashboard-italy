@@ -4976,3 +4976,10 @@
 [17/05/2022 16:50:48] --- REGIONI FILE CHECK
 [17/05/2022 16:50:48] no new regioni added
 [17/05/2022 16:50:48] new date added: {'2022-05-17T17:00:00'}
+[18/05/2022 16:50:24] --- NAZIONE FILE CHECK
+[18/05/2022 16:50:24] new date added: {'2022-05-18T17:00:00'}
+[18/05/2022 16:50:24] --- PROVINCE CODE FILE CHECK
+[18/05/2022 16:50:24] no new province code added
+[18/05/2022 16:50:24] --- REGIONI FILE CHECK
+[18/05/2022 16:50:24] no new regioni added
+[18/05/2022 16:50:24] new date added: {'2022-05-18T17:00:00'}
