@@ -5025,3 +5025,10 @@
 [24/05/2022 16:49:42] --- REGIONI FILE CHECK
 [24/05/2022 16:49:42] no new regioni added
 [24/05/2022 16:49:42] new date added: {'2022-05-24T17:00:00'}
+[25/05/2022 16:49:43] --- NAZIONE FILE CHECK
+[25/05/2022 16:49:43] new date added: {'2022-05-25T17:00:00'}
+[25/05/2022 16:49:43] --- PROVINCE CODE FILE CHECK
+[25/05/2022 16:49:43] no new province code added
+[25/05/2022 16:49:43] --- REGIONI FILE CHECK
+[25/05/2022 16:49:43] no new regioni added
+[25/05/2022 16:49:43] new date added: {'2022-05-25T17:00:00'}
