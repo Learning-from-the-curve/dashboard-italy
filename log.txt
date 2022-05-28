@@ -5046,3 +5046,10 @@
 [27/05/2022 16:49:17] --- REGIONI FILE CHECK
 [27/05/2022 16:49:17] no new regioni added
 [27/05/2022 16:49:17] new date added: {'2022-05-27T17:00:00'}
+[28/05/2022 16:46:48] --- NAZIONE FILE CHECK
+[28/05/2022 16:46:48] new date added: {'2022-05-28T17:00:00'}
+[28/05/2022 16:46:48] --- PROVINCE CODE FILE CHECK
+[28/05/2022 16:46:48] no new province code added
+[28/05/2022 16:46:48] --- REGIONI FILE CHECK
+[28/05/2022 16:46:48] no new regioni added
+[28/05/2022 16:46:48] new date added: {'2022-05-28T17:00:00'}
