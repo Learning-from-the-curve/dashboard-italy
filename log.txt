@@ -5081,3 +5081,10 @@
 [01/06/2022 16:49:42] --- REGIONI FILE CHECK
 [01/06/2022 16:49:42] no new regioni added
 [01/06/2022 16:49:42] new date added: {'2022-06-01T17:00:00'}
+[02/06/2022 16:51:50] --- NAZIONE FILE CHECK
+[02/06/2022 16:51:50] new date added: {'2022-06-02T17:00:00'}
+[02/06/2022 16:51:50] --- PROVINCE CODE FILE CHECK
+[02/06/2022 16:51:50] no new province code added
+[02/06/2022 16:51:50] --- REGIONI FILE CHECK
+[02/06/2022 16:51:50] no new regioni added
+[02/06/2022 16:51:50] new date added: {'2022-06-02T17:00:00'}
