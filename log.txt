@@ -5095,3 +5095,10 @@
 [03/06/2022 16:46:01] --- REGIONI FILE CHECK
 [03/06/2022 16:46:01] no new regioni added
 [03/06/2022 16:46:01] new date added: {'2022-06-03T17:00:00'}
+[04/06/2022 16:39:52] --- NAZIONE FILE CHECK
+[04/06/2022 16:39:52] new date added: {'2022-06-04T17:00:00'}
+[04/06/2022 16:39:52] --- PROVINCE CODE FILE CHECK
+[04/06/2022 16:39:52] no new province code added
+[04/06/2022 16:39:52] --- REGIONI FILE CHECK
+[04/06/2022 16:39:52] no new regioni added
+[04/06/2022 16:39:52] new date added: {'2022-06-04T17:00:00'}
