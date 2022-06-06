@@ -5109,3 +5109,10 @@
 [05/06/2022 16:40:33] --- REGIONI FILE CHECK
 [05/06/2022 16:40:33] no new regioni added
 [05/06/2022 16:40:33] new date added: {'2022-06-05T17:00:00'}
+[06/06/2022 16:48:03] --- NAZIONE FILE CHECK
+[06/06/2022 16:48:03] new date added: {'2022-06-06T17:00:00'}
+[06/06/2022 16:48:03] --- PROVINCE CODE FILE CHECK
+[06/06/2022 16:48:03] no new province code added
+[06/06/2022 16:48:03] --- REGIONI FILE CHECK
+[06/06/2022 16:48:03] no new regioni added
+[06/06/2022 16:48:03] new date added: {'2022-06-06T17:00:00'}
